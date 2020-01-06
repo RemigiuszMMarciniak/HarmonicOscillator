@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24742656-78cc-4419-8642-be2109bda61d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VzRLjobb4Oqu9ymRVsx0YlbfNk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MainFX">
+    <configuration name="MainFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFX" />
+      <module name="MNList9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ODETester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ODETester" />
+      <module name="MNList9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFX" />
+        <item itemvalue="Application.ODETester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24742656-78cc-4419-8642-be2109bda61d" name="Default Changelist" comment="" />
+      <created>1578253882570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578253882570</updated>
+      <workItem from="1578253886900" duration="4107000" />
+      <workItem from="1578306602985" duration="3687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1578256761836">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state x="803" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/71.27.1849.1053@71.27.1849.1053" timestamp="1578256761836" />
+    <state width="1849" height="286" key="GridCell.Tab.0.bottom" timestamp="1578310291163">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1849" height="286" key="GridCell.Tab.0.bottom/71.27.1849.1053@71.27.1849.1053" timestamp="1578310291163" />
+    <state width="1849" height="286" key="GridCell.Tab.0.center" timestamp="1578310291162">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1849" height="286" key="GridCell.Tab.0.center/71.27.1849.1053@71.27.1849.1053" timestamp="1578310291162" />
+    <state width="1849" height="286" key="GridCell.Tab.0.left" timestamp="1578310291161">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1849" height="286" key="GridCell.Tab.0.left/71.27.1849.1053@71.27.1849.1053" timestamp="1578310291161" />
+    <state width="1849" height="286" key="GridCell.Tab.0.right" timestamp="1578310291162">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1849" height="286" key="GridCell.Tab.0.right/71.27.1849.1053@71.27.1849.1053" timestamp="1578310291162" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578306601988">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/71.27.1849.1053@71.27.1849.1053" timestamp="1578306601988" />
+  </component>
+</project>
