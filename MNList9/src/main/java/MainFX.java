@@ -80,8 +80,8 @@ public class MainFX extends Application {
 
 
         buttonDrawTvsX.setOnAction(e->{
-            double [] xStart = {1., 0};
-            double [] xStop = {0,0};
+            double [] xStart = {1, 0.};
+            double [] xStop = {10.,100.};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -104,8 +104,8 @@ public class MainFX extends Application {
         });
 
         buttonDrawTvsV.setOnAction(e->{
-            double [] xStart = {1., 0};
-            double [] xStop = {0,0};
+            double [] xStart = {1, 0.};
+            double [] xStop = {10.,100.};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -129,8 +129,8 @@ public class MainFX extends Application {
         });
 
         buttonDrawXvsV.setOnAction(e->{
-            double [] xStart = {1., 0};
-            double [] xStop = {0,0};
+            double [] xStart = {1, 0.};
+            double [] xStop = {10.,100.};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -154,8 +154,8 @@ public class MainFX extends Application {
         });
 
         buttonDrawAll.setOnAction(e->{
-            double [] xStart = {1., 0};
-            double [] xStop = {0,0};
+            double [] xStart = {1, 0.};
+            double [] xStop = {10.,100.};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
