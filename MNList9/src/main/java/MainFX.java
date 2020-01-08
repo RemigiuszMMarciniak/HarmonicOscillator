@@ -80,8 +80,8 @@ public class MainFX extends Application {
 
 
         buttonDrawTvsX.setOnAction(e->{
-            double [] xStart = {1, 0.};
-            double [] xStop = {10.,100.};
+            double [] xStart = {1., 0};
+            double [] xStop = {0,0};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -90,7 +90,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0.,xStart,Math.PI,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
 
             figure.setCreateSymbols(false);
             figure.getData().clear();
@@ -100,12 +100,11 @@ public class MainFX extends Application {
 
             figure.setLegendVisible(false);
             figure.getData().add(data);
-
         });
 
         buttonDrawTvsV.setOnAction(e->{
-            double [] xStart = {1, 0.};
-            double [] xStop = {10.,100.};
+            double [] xStart = {1., 0};
+            double [] xStop = {0,0};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -114,7 +113,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0.,xStart,Math.PI,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
 
 
             figure.setCreateSymbols(false);
@@ -129,8 +128,8 @@ public class MainFX extends Application {
         });
 
         buttonDrawXvsV.setOnAction(e->{
-            double [] xStart = {1, 0.};
-            double [] xStop = {10.,100.};
+            double [] xStart = {1., 0};
+            double [] xStop = {0,0};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -139,7 +138,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0.,xStart,Math.PI,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
 
 
             figure.setCreateSymbols(false);
@@ -154,8 +153,8 @@ public class MainFX extends Application {
         });
 
         buttonDrawAll.setOnAction(e->{
-            double [] xStart = {1, 0.};
-            double [] xStop = {10.,100.};
+            double [] xStart = {1., 0};
+            double [] xStop = {0,0};
 
             HOStepHandler hoStepHandler = new HOStepHandler();
 
@@ -164,7 +163,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0.,xStart,Math.PI,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
 
 
             figure.setCreateSymbols(false);
