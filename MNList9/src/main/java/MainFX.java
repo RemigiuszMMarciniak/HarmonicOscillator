@@ -90,7 +90,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,20.,xStop);
 
             figure.setCreateSymbols(false);
             figure.getData().clear();
@@ -113,7 +113,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,20.,xStop);
 
 
             figure.setCreateSymbols(false);
@@ -138,7 +138,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,20.,xStop);
 
 
             figure.setCreateSymbols(false);
@@ -163,7 +163,7 @@ public class MainFX extends Application {
 
             double mu = Double.parseDouble(textFieldMu.getText());
             HarmonicOscillator harmonicOscillator = new HarmonicOscillator(mu);
-            eulerIntegrator.integrate(harmonicOscillator,0,xStart,100.,xStop);
+            eulerIntegrator.integrate(harmonicOscillator,0,xStart,20.,xStop);
 
 
             figure.setCreateSymbols(false);
